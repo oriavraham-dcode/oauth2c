@@ -20,6 +20,7 @@ require (
 	github.com/spf13/cobra v1.5.0
 	github.com/stretchr/testify v1.8.2
 	github.com/tidwall/pretty v1.2.0
+
 )
 
 require (
